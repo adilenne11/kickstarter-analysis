@@ -3,10 +3,10 @@
 The purpose of this analysis is to help Louise make informed decisions about when to launch her theater campaign and how much the funding goal should be for the best success rate.
 ## *Theater Outcomes Based on Launch Dates*:
 The line graph *Theater Outcomes Based on Launch Dates* shows the number of successful, failed, and canceled theater campaigns based on the month the theater campaign was launched. A launch date in May for theater has proven to be the most successful in a timeline of 7 years. However, launch dates in May, June, July, August and October have about the same number of failed theater campaigns.
-[Theater_Outcomes_vs_Launch](Docs/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/110357810/185199262-b99dc273-b674-43c2-9eaf-bfc0bb08072d.png)
 ## *Outcomes Based on Goals*:
 The line graph *Outcomes Based on Goals* shows the percentage of successful, failed, and canceled campaigns based on the funding goal. A funding goal of less than $1,000 is proven to be the most successful. 76% of campaigns succeeded with the funding goal of less than $1,000.
-[Outcomes_vs_Goals](Docs/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/110357810/185199136-d7f0163f-6597-49cd-b404-75b2bc7c8f23.png)
 ## Conclusion:
 Louise has a better theater campaign success rate if the campaign is launched in May with a funding goal of less than $1,000.
 ## Limitations:
